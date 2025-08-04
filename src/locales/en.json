@@ -1,0 +1,335 @@
+{
+  "navigation": {
+    "services": "Services",
+    "about": "About",
+    "testimonials": "Success Stories",
+    "pricing": "Pricing",
+    "language": "Language"
+  },
+  "hero": {
+    "heading": "Date with Confidence. Connect with Intention.",
+    "tagline": "Women helping men become the authentic, confident partners they were meant to be. Real coaching, real results, real connections.",
+    "buttonText": "Start Your Transformation"
+  },
+  "services": {
+    "heading": "What we help with",
+    "subtitle": "Comprehensive coaching designed to help you become the confident, authentic man that quality women are genuinely excited to be with.",
+    "cta": {
+      "text": "Ready to transform your dating life?",
+      "button": "Book Your First Session"
+    },
+    "items": {
+      "dating_profile": {
+        "title": "Dating Profile Optimization",
+        "description": "Transform your online presence with profiles that attract the right matches. We'll help you showcase your authentic self while appealing to quality women.",
+        "features": [
+          "Photo selection guidance",
+          "Bio writing & optimization",
+          "Conversation starters",
+          "Platform-specific tips"
+        ]
+      },
+      "confidence_communication": {
+        "title": "Confidence & Communication",
+        "description": "Build genuine confidence and learn communication skills that create real connections. No pickup lines, just authentic interaction.",
+        "features": [
+          "Body language coaching",
+          "Conversation techniques",
+          "Emotional intelligence",
+          "Mindset transformation"
+        ]
+      },
+      "dating_strategy": {
+        "title": "Dating Strategy & Mindset",
+        "description": "Develop a healthy approach to dating that focuses on compatibility and genuine connection rather than games or manipulation.",
+        "features": [
+          "Relationship goal setting",
+          "Red flag identification",
+          "Boundary setting",
+          "Long-term thinking"
+        ]
+      },
+      "style_presentation": {
+        "title": "Style & Presentation",
+        "description": "Learn how to present yourself in a way that's both attractive and authentically you. From wardrobe to grooming, we'll help you put your best foot forward.",
+        "features": [
+          "Wardrobe consultation",
+          "Grooming guidance",
+          "First impression optimization",
+          "Personal style development"
+        ]
+      },
+      "text_messaging": {
+        "title": "Text Game & Messaging",
+        "description": "Master the art of digital communication with strategies that keep conversations flowing and build genuine interest without being pushy.",
+        "features": [
+          "Timing strategies",
+          "Conversation flow",
+          "Interest building",
+          "Moving to in-person"
+        ]
+      },
+      "real_world_practice": {
+        "title": "Real-World Practice",
+        "description": "Apply your new skills in real situations with guidance and support. We'll help you navigate social situations with confidence and authenticity.",
+        "features": [
+          "Social situation coaching",
+          "Approach techniques",
+          "Confidence building",
+          "Real-world application"
+        ]
+      }
+    }
+  },
+  "about": {
+    "heading": "Why learn from women?",
+    "paragraphs": [
+      "Who better to teach you about dating women than women themselves? Our female coaches understand what women actually want, not what pickup artists think they want.",
+      "We've experienced every type of approach, message, and date. We know what feels authentic versus what feels forced. We can spot the difference between confidence and arrogance from a mile away.",
+      "Most importantly, we understand that great relationships are built on mutual respect, genuine connection, and emotional intelligence – not tricks or manipulation."
+    ],
+    "stats": {
+      "men_coached": {
+        "number": "500+",
+        "label": "Men Coached"
+      },
+      "find_relationships": {
+        "number": "85%",
+        "label": "Find Relationships"
+      }
+    },
+    "approach": {
+      "heading": "Our Approach",
+      "items": [
+        {
+          "title": "Authentic Development",
+          "description": "We help you become the best version of yourself, not someone else."
+        },
+        {
+          "title": "Female Perspective",
+          "description": "Insights from women who understand what women actually want."
+        },
+        {
+          "title": "Long-term Success",
+          "description": "Focus on building meaningful relationships, not just getting dates."
+        },
+        {
+          "title": "Practical Skills",
+          "description": "Real-world techniques you can apply immediately."
+        }
+      ]
+    },
+    "male_loneliness": {
+      "heading": "The Male Loneliness Crisis",
+      "description": "We understand that dating struggles often reflect deeper issues with connection and community. Our coaching addresses not just dating skills, but helps you build confidence and social skills that improve every area of your life."
+    }
+  },
+  "testimonials": {
+    "badge": "Success Stories",
+    "heading": "Real Men, Real Results",
+    "subtitle": "See how our coaching has transformed the dating lives of hundreds of men across the country.",
+    "items": [
+      {
+        "text": "I was stuck in a pattern of failed first dates and ghosting. The coaching helped me understand what I was doing wrong and now I'm in a committed relationship with an amazing woman.",
+        "name": "Marcus",
+        "role": "Age 28, Software Engineer"
+      },
+      {
+        "text": "After my divorce, I had no idea how to date again. The female coaches helped me rebuild my confidence and understand what women actually want in a partner.",
+        "name": "David",
+        "role": "Age 34, Business Owner"
+      },
+      {
+        "text": "I was shy and awkward around women. Through this program, I learned that confidence isn't about being loud or aggressive – it's about being comfortable with yourself.",
+        "name": "James",
+        "role": "Age 26, Marketing Specialist"
+      },
+      {
+        "text": "My dating app conversations always died out. Learning proper texting and conversation skills from a woman's perspective was a complete game-changer for me.",
+        "name": "Alex",
+        "role": "Age 29, Teacher"
+      },
+      {
+        "text": "I thought I needed to be someone else to attract women. The coaches showed me that authenticity is actually more attractive than any persona. I'm now dating someone incredible.",
+        "name": "Ryan",
+        "role": "Age 31, Designer"
+      },
+      {
+        "text": "Best investment I've ever made in myself. The coaches helped me understand women's perspectives and taught me how to build genuine connections rather than just trying to impress.",
+        "name": "Michael",
+        "role": "Age 33, Finance Manager"
+      },
+      {
+        "text": "I used to be terrified of approaching women. Now I feel confident starting conversations and I've learned to read social cues much better. It's changed my entire social life.",
+        "name": "Jordan",
+        "role": "Age 27, Engineer"
+      },
+      {
+        "text": "The profile optimization service transformed my online dating experience. I went from zero matches to multiple quality conversations with women who actually align with my values.",
+        "name": "Tyler",
+        "role": "Age 30, Consultant"
+      },
+      {
+        "text": "What I loved most was learning from women who actually understand what women want. No pickup artist tactics – just real, authentic advice that actually works in building relationships.",
+        "name": "Chris",
+        "role": "Age 32, Sales Director"
+      }
+    ]
+  },
+  "simple_cta": {
+    "title": "Stop second-guessing yourself",
+    "subtitle": "Every day you wait is another day of missed connections and opportunities. Start building the confidence and skills you need to create the relationship you want.",
+    "buttonText": "Get Started Today"
+  },
+  "pricing": {
+    "heading": "Invest in yourself",
+    "subtitle": "Real transformation requires commitment. Choose the path that fits your goals and timeline.",
+    "plans": {
+      "clarity_call": {
+        "name": "The Clarity Call",
+        "subtitle": "Perfect for quick, actionable advice",
+        "price": "$165",
+        "duration": "1 Session",
+        "description": "Get clarity on dating profiles, texts, ghosting recoveries, or dating roadblocks.",
+        "features": [
+          "Get clarity on dating profiles, texts, ghosting recoveries, or dating roadblocks",
+          "Walk away with immediate, practical steps to improve your results"
+        ],
+        "cta": "Book"
+      },
+      "dating_reset": {
+        "name": "The Dating & Confidence Reset",
+        "subtitle": "Break free from old patterns and stop repeating the same mistakes",
+        "price": "$550",
+        "duration": "4 Sessions",
+        "description": "Develop real confidence and authentic connection skills.",
+        "features": [
+          "Develop real confidence and authentic connection skills",
+          "Improve communication, attraction, and self-awareness",
+          "Date smarter, not harder"
+        ],
+        "cta": "Book"
+      },
+      "full_transformation": {
+        "name": "The Full Transformation",
+        "subtitle": "Go beyond dating—elevate your mindset, confidence, and presence",
+        "price": "$1200",
+        "duration": "8 Sessions",
+        "description": "Complete transformation covering every aspect of dating and relationships.",
+        "features": [
+          "Learn how to show up with clarity and calm in any situation",
+          "Attract women that you are genuinely excited about",
+          "Transform your profile, style, and conversation game to get real results",
+          "Use breathwork and meditation to stay grounded and self-aware under pressure",
+          "Build lasting confidence, courage, and a stronger sense of who you are"
+        ],
+        "cta": "Book"
+      }
+    },
+    "popular_badge": "Most Popular",
+    "bottom_note": {
+      "sessions_note": "All sessions are conducted via video call for your convenience.",
+      "guarantee": "30-day money-back guarantee if you're not satisfied with your progress."
+    }
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about our coaching approach.",
+    "items": [
+      {
+        "question": "How is this different from pickup artist programs?",
+        "answer": "We focus on authentic self-improvement and genuine connection rather than manipulation tactics. Our female coaches teach you what women actually find attractive: confidence, emotional intelligence, and authenticity. No negging, no games, just real skills for real relationships."
+      },
+      {
+        "question": "Will this work if I'm shy or have social anxiety?",
+        "answer": "Absolutely. Many of our most successful clients started out shy or anxious. We work at your pace and provide practical techniques to build confidence gradually. Social anxiety is often about fear of judgment, and we help you develop genuine self-assurance that reduces that fear."
+      },
+      {
+        "question": "How quickly will I see results?",
+        "answer": "Most clients see improvements in confidence and communication within 2-3 sessions. Dating results vary depending on your starting point and effort level, but many clients report better dates and connections within the first month of applying what they learn."
+      },
+      {
+        "question": "Do you help with online dating specifically?",
+        "answer": "Yes! We provide comprehensive support for dating apps and online dating, including profile optimization, photo selection, messaging strategies, and how to transition from online to in-person meetings successfully."
+      },
+      {
+        "question": "What if I'm looking for a serious relationship, not just dating?",
+        "answer": "That's exactly what we focus on. While we can help you get more dates, our ultimate goal is helping you build the skills for meaningful, lasting relationships. We teach you how to identify compatible partners and build genuine connections."
+      },
+      {
+        "question": "Are the coaches actually women?",
+        "answer": "Yes, our coaching team consists entirely of women who understand dating from the female perspective. This gives you insights you simply can't get from male coaches who are guessing what women want."
+      },
+      {
+        "question": "What if I'm recently divorced or haven't dated in years?",
+        "answer": "We work with many men who are re-entering the dating world after long relationships or marriages. We'll help you understand how dating has changed and rebuild your confidence at a comfortable pace."
+      },
+      {
+        "question": "Is this just for younger guys?",
+        "answer": "Not at all. We work with men aged 22-55+. Dating challenges exist at every age, and our approach adapts to your life stage, whether you're starting your career or well-established professionally."
+      }
+    ],
+    "cta": {
+      "text": "Still have questions? Let's talk.",
+      "button": "Book Clarity Call"
+    }
+  },
+  "contact": {
+    "heading": "Ready to transform your dating life?",
+    "subtitle": "You don't have to figure this out alone. Our expert female coaches are here to guide you toward authentic confidence and meaningful connections.",
+    "benefits": [
+      "Practical, actionable advice in every session",
+      "No judgment, just honest feedback and support",
+      "Proven strategies from women who understand women"
+    ],
+    "clarity_call": {
+      "heading": "Book Your Clarity Call",
+      "details": {
+        "duration": {
+          "label": "Duration",
+          "value": "1 Session"
+        },
+        "investment": {
+          "label": "Investment",
+          "value": "$165"
+        },
+        "format": {
+          "label": "Format",
+          "value": "Video call"
+        }
+      },
+      "button": "Book Clarity Call",
+      "description": "Get immediate, practical steps to improve your dating results."
+    }
+  },
+  "footer": {
+    "navigation": {
+      "services": "Our Services",
+      "about": "About Us",
+      "testimonials": "Success Stories",
+      "pricing": "Pricing",
+      "contact": "Get Started"
+    },
+    "social": {
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn"
+    },
+    "newsletter": {
+      "heading": "Weekly Dating Tips",
+      "subtitle": "Get confidence-building insights delivered to your inbox",
+      "email_placeholder": "Enter your email",
+      "subscribe_button": "Subscribe"
+    },
+    "copyright": {
+      "text": "© 2024 GirlToBro. All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  },
+  "metadata": {
+    "title": "GirlToBro - Dating Coaching for Men by Women",
+    "description": "Transform your dating life with authentic coaching from female experts. Build confidence, improve communication, and create meaningful connections."
+  }
+}

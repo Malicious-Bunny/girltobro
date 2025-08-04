@@ -1,0 +1,335 @@
+{
+  "navigation": {
+    "services": "Dienstleistungen",
+    "about": "Über uns",
+    "testimonials": "Erfolgsgeschichten",
+    "pricing": "Preise",
+    "language": "Sprache"
+  },
+  "hero": {
+    "heading": "Date mit Selbstvertrauen. Verbinde dich mit Absicht.",
+    "tagline": "Frauen helfen Männern dabei, die authentischen, selbstbewussten Partner zu werden, die sie sein sollten. Echtes Coaching, echte Ergebnisse, echte Verbindungen.",
+    "buttonText": "Starte deine Transformation"
+  },
+  "services": {
+    "heading": "Wobei wir helfen",
+    "subtitle": "Umfassendes Coaching, das dir dabei hilft, der selbstbewusste, authentische Mann zu werden, für den sich qualitätsbewusste Frauen wirklich begeistern.",
+    "cta": {
+      "text": "Bereit, dein Dating-Leben zu transformieren?",
+      "button": "Buche deine erste Sitzung"
+    },
+    "items": {
+      "dating_profile": {
+        "title": "Dating-Profil Optimierung",
+        "description": "Verwandle deine Online-Präsenz mit Profilen, die die richtigen Matches anziehen. Wir helfen dir dabei, dein authentisches Selbst zu zeigen und gleichzeitig qualitätsbewusste Frauen anzusprechen.",
+        "features": [
+          "Foto-Auswahl Beratung",
+          "Bio-Erstellung & Optimierung",
+          "Gesprächseröffner",
+          "Plattform-spezifische Tipps"
+        ]
+      },
+      "confidence_communication": {
+        "title": "Selbstvertrauen & Kommunikation",
+        "description": "Baue echtes Selbstvertrauen auf und lerne Kommunikationsfähigkeiten, die echte Verbindungen schaffen. Keine Anmachsprüche, nur authentische Interaktion.",
+        "features": [
+          "Körpersprache-Coaching",
+          "Gesprächstechniken",
+          "Emotionale Intelligenz",
+          "Mindset-Transformation"
+        ]
+      },
+      "dating_strategy": {
+        "title": "Dating-Strategie & Mindset",
+        "description": "Entwickle einen gesunden Ansatz zum Dating, der sich auf Kompatibilität und echte Verbindung konzentriert, anstatt auf Spiele oder Manipulation.",
+        "features": [
+          "Beziehungsziele setzen",
+          "Red Flags erkennen",
+          "Grenzen setzen",
+          "Langfristiges Denken"
+        ]
+      },
+      "style_presentation": {
+        "title": "Stil & Präsentation",
+        "description": "Lerne, wie du dich auf eine Weise präsentierst, die sowohl attraktiv als auch authentisch für dich ist. Von der Garderobe bis zur Körperpflege helfen wir dir, deinen besten Fuß nach vorne zu setzen.",
+        "features": [
+          "Garderobe-Beratung",
+          "Pflege-Anleitung",
+          "Erster Eindruck Optimierung",
+          "Persönliche Stil-Entwicklung"
+        ]
+      },
+      "text_messaging": {
+        "title": "Text-Game & Messaging",
+        "description": "Meistere die Kunst der digitalen Kommunikation mit Strategien, die Gespräche am Laufen halten und echtes Interesse aufbauen, ohne aufdringlich zu sein.",
+        "features": [
+          "Timing-Strategien",
+          "Gesprächsfluss",
+          "Interesse aufbauen",
+          "Übergang zu persönlichen Treffen"
+        ]
+      },
+      "real_world_practice": {
+        "title": "Praxis in der realen Welt",
+        "description": "Wende deine neuen Fähigkeiten in realen Situationen mit Anleitung und Unterstützung an. Wir helfen dir dabei, soziale Situationen mit Selbstvertrauen und Authentizität zu meistern.",
+        "features": [
+          "Coaching für soziale Situationen",
+          "Annäherungstechniken",
+          "Selbstvertrauen aufbauen",
+          "Anwendung in der realen Welt"
+        ]
+      }
+    }
+  },
+  "about": {
+    "heading": "Warum von Frauen lernen?",
+    "paragraphs": [
+      "Wer könnte dir besser beibringen, wie man Frauen datet, als Frauen selbst? Unsere weiblichen Coaches verstehen, was Frauen wirklich wollen, nicht was Pick-up-Artists denken, dass sie wollen.",
+      "Wir haben jeden Typ von Annäherung, Nachricht und Date erlebt. Wir wissen, was sich authentisch anfühlt im Gegensatz zu dem, was sich erzwungen anfühlt. Wir können den Unterschied zwischen Selbstvertrauen und Arroganz aus der Ferne erkennen.",
+      "Am wichtigsten ist, dass wir verstehen, dass großartige Beziehungen auf gegenseitigem Respekt, echter Verbindung und emotionaler Intelligenz aufbauen – nicht auf Tricks oder Manipulation."
+    ],
+    "stats": {
+      "men_coached": {
+        "number": "500+",
+        "label": "Betreute Männer"
+      },
+      "find_relationships": {
+        "number": "85%",
+        "label": "Finden Beziehungen"
+      }
+    },
+    "approach": {
+      "heading": "Unser Ansatz",
+      "items": [
+        {
+          "title": "Authentische Entwicklung",
+          "description": "Wir helfen dir dabei, die beste Version deiner selbst zu werden, nicht jemand anderes."
+        },
+        {
+          "title": "Weibliche Perspektive",
+          "description": "Einblicke von Frauen, die verstehen, was Frauen wirklich wollen."
+        },
+        {
+          "title": "Langfristiger Erfolg",
+          "description": "Fokus auf den Aufbau bedeutungsvoller Beziehungen, nicht nur auf das Bekommen von Dates."
+        },
+        {
+          "title": "Praktische Fähigkeiten",
+          "description": "Techniken aus der realen Welt, die du sofort anwenden kannst."
+        }
+      ]
+    },
+    "male_loneliness": {
+      "heading": "Die männliche Einsamkeitskrise",
+      "description": "Wir verstehen, dass Dating-Probleme oft tiefere Probleme mit Verbindung und Gemeinschaft widerspiegeln. Unser Coaching behandelt nicht nur Dating-Fähigkeiten, sondern hilft dir dabei, Selbstvertrauen und soziale Fähigkeiten aufzubauen, die jeden Bereich deines Lebens verbessern."
+    }
+  },
+  "testimonials": {
+    "badge": "Erfolgsgeschichten",
+    "heading": "Echte Männer, Echte Ergebnisse",
+    "subtitle": "Sieh, wie unser Coaching das Dating-Leben von Hunderten von Männern im ganzen Land transformiert hat.",
+    "items": [
+      {
+        "text": "Ich steckte in einem Muster von gescheiterten ersten Dates und Ghosting fest. Das Coaching half mir zu verstehen, was ich falsch machte, und jetzt bin ich in einer festen Beziehung mit einer wunderbaren Frau.",
+        "name": "Marcus",
+        "role": "28 Jahre, Software-Ingenieur"
+      },
+      {
+        "text": "Nach meiner Scheidung hatte ich keine Ahnung, wie ich wieder daten sollte. Die weiblichen Coaches halfen mir dabei, mein Selbstvertrauen wieder aufzubauen und zu verstehen, was Frauen wirklich in einem Partner wollen.",
+        "name": "David",
+        "role": "34 Jahre, Geschäftsinhaber"
+      },
+      {
+        "text": "Ich war schüchtern und unbeholfen um Frauen herum. Durch dieses Programm lernte ich, dass Selbstvertrauen nicht bedeutet, laut oder aggressiv zu sein – es bedeutet, sich mit sich selbst wohl zu fühlen.",
+        "name": "James",
+        "role": "26 Jahre, Marketing-Spezialist"
+      },
+      {
+        "text": "Meine Dating-App-Gespräche sind immer ins Leere gelaufen. Das Erlernen von ordentlichen SMS- und Gesprächsfähigkeiten aus einer weiblichen Perspektive war ein kompletter Wendepunkt für mich.",
+        "name": "Alex",
+        "role": "29 Jahre, Lehrer"
+      },
+      {
+        "text": "Ich dachte, ich müsste jemand anderes sein, um Frauen anzuziehen. Die Coaches zeigten mir, dass Authentizität tatsächlich attraktiver ist als jede Persona. Ich date jetzt jemanden Unglaubliches.",
+        "name": "Ryan",
+        "role": "31 Jahre, Designer"
+      },
+      {
+        "text": "Die beste Investition, die ich je in mich selbst gemacht habe. Die Coaches halfen mir dabei, die Perspektiven von Frauen zu verstehen und lehrten mich, wie man echte Verbindungen aufbaut, anstatt nur zu versuchen zu beeindrucken.",
+        "name": "Michael",
+        "role": "33 Jahre, Finanzmanager"
+      },
+      {
+        "text": "Ich hatte früher schreckliche Angst davor, Frauen anzusprechen. Jetzt fühle ich mich selbstbewusst dabei, Gespräche zu beginnen, und ich habe gelernt, soziale Signale viel besser zu lesen. Es hat mein ganzes soziales Leben verändert.",
+        "name": "Jordan",
+        "role": "27 Jahre, Ingenieur"
+      },
+      {
+        "text": "Der Profil-Optimierungsservice transformierte meine Online-Dating-Erfahrung. Ich ging von null Matches zu mehreren hochwertigen Gesprächen mit Frauen, die wirklich mit meinen Werten übereinstimmen.",
+        "name": "Tyler",
+        "role": "30 Jahre, Berater"
+      },
+      {
+        "text": "Was ich am meisten liebte, war von Frauen zu lernen, die wirklich verstehen, was Frauen wollen. Keine Pick-up-Artist-Taktiken – nur echter, authentischer Rat, der tatsächlich beim Aufbau von Beziehungen funktioniert.",
+        "name": "Chris",
+        "role": "32 Jahre, Vertriebsleiter"
+      }
+    ]
+  },
+  "simple_cta": {
+    "title": "Hör auf, an dir selbst zu zweifeln",
+    "subtitle": "Jeder Tag, den du wartest, ist ein weiterer Tag verpasster Verbindungen und Gelegenheiten. Beginne damit, das Selbstvertrauen und die Fähigkeiten aufzubauen, die du brauchst, um die Beziehung zu schaffen, die du willst.",
+    "buttonText": "Fange heute an"
+  },
+  "pricing": {
+    "heading": "Investiere in dich selbst",
+    "subtitle": "Echte Transformation erfordert Engagement. Wähle den Weg, der zu deinen Zielen und deinem Zeitplan passt.",
+    "plans": {
+      "clarity_call": {
+        "name": "Das Klarheitsgespräch",
+        "subtitle": "Perfekt für schnelle, umsetzbare Beratung",
+        "price": "165€",
+        "duration": "1 Sitzung",
+        "description": "Erhalte Klarheit über Dating-Profile, Texte, Ghosting-Wiederherstellungen oder Dating-Hindernisse.",
+        "features": [
+          "Erhalte Klarheit über Dating-Profile, Texte, Ghosting-Wiederherstellungen oder Dating-Hindernisse",
+          "Gehe mit sofortigen, praktischen Schritten weg, um deine Ergebnisse zu verbessern"
+        ],
+        "cta": "Buchen"
+      },
+      "dating_reset": {
+        "name": "Das Dating & Selbstvertrauen Reset",
+        "subtitle": "Befreie dich von alten Mustern und höre auf, dieselben Fehler zu wiederholen",
+        "price": "550€",
+        "duration": "4 Sitzungen",
+        "description": "Entwickle echtes Selbstvertrauen und authentische Verbindungsfähigkeiten.",
+        "features": [
+          "Entwickle echtes Selbstvertrauen und authentische Verbindungsfähigkeiten",
+          "Verbessere Kommunikation, Anziehung und Selbstwahrnehmung",
+          "Date klüger, nicht härter"
+        ],
+        "cta": "Buchen"
+      },
+      "full_transformation": {
+        "name": "Die vollständige Transformation",
+        "subtitle": "Gehe über das Dating hinaus – erhöhe dein Mindset, Selbstvertrauen und deine Präsenz",
+        "price": "1200€",
+        "duration": "8 Sitzungen",
+        "description": "Vollständige Transformation, die jeden Aspekt des Datings und der Beziehungen abdeckt.",
+        "features": [
+          "Lerne, wie du mit Klarheit und Ruhe in jeder Situation auftrittst",
+          "Ziehe Frauen an, für die du dich wirklich begeisterst",
+          "Transformiere dein Profil, deinen Stil und dein Gesprächsspiel, um echte Ergebnisse zu erzielen",
+          "Nutze Atemarbeit und Meditation, um unter Druck geerdet und selbstbewusst zu bleiben",
+          "Baue dauerhaftes Selbstvertrauen, Mut und ein stärkeres Gefühl dafür auf, wer du bist"
+        ],
+        "cta": "Buchen"
+      }
+    },
+    "popular_badge": "Am beliebtesten",
+    "bottom_note": {
+      "sessions_note": "Alle Sitzungen werden bequem per Videoanruf durchgeführt.",
+      "guarantee": "30-Tage-Geld-zurück-Garantie, wenn du mit deinem Fortschritt nicht zufrieden bist."
+    }
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "subtitle": "Alles, was du über unseren Coaching-Ansatz wissen musst.",
+    "items": [
+      {
+        "question": "Wie unterscheidet sich das von Pick-up-Artist-Programmen?",
+        "answer": "Wir konzentrieren uns auf authentische Selbstverbesserung und echte Verbindung anstatt auf Manipulationstaktiken. Unsere weiblichen Coaches bringen dir bei, was Frauen wirklich attraktiv finden: Selbstvertrauen, emotionale Intelligenz und Authentizität. Keine Beleidigungen, keine Spiele, nur echte Fähigkeiten für echte Beziehungen."
+      },
+      {
+        "question": "Funktioniert das, wenn ich schüchtern bin oder soziale Ängste habe?",
+        "answer": "Absolut. Viele unserer erfolgreichsten Kunden fingen schüchtern oder ängstlich an. Wir arbeiten in deinem Tempo und bieten praktische Techniken, um schrittweise Selbstvertrauen aufzubauen. Soziale Angst handelt oft von der Angst vor Beurteilung, und wir helfen dir dabei, echte Selbstsicherheit zu entwickeln, die diese Angst reduziert."
+      },
+      {
+        "question": "Wie schnell werde ich Ergebnisse sehen?",
+        "answer": "Die meisten Kunden sehen Verbesserungen in Selbstvertrauen und Kommunikation innerhalb von 2-3 Sitzungen. Dating-Ergebnisse variieren je nach deinem Ausgangspunkt und Anstrengungsniveau, aber viele Kunden berichten von besseren Dates und Verbindungen innerhalb des ersten Monats der Anwendung dessen, was sie lernen."
+      },
+      {
+        "question": "Helft ihr speziell beim Online-Dating?",
+        "answer": "Ja! Wir bieten umfassende Unterstützung für Dating-Apps und Online-Dating, einschließlich Profil-Optimierung, Foto-Auswahl, Messaging-Strategien und wie man erfolgreich von online zu persönlichen Treffen übergeht."
+      },
+      {
+        "question": "Was ist, wenn ich nach einer ernsthaften Beziehung suche, nicht nur nach Dating?",
+        "answer": "Genau darauf konzentrieren wir uns. Während wir dir helfen können, mehr Dates zu bekommen, ist unser ultimatives Ziel, dir dabei zu helfen, die Fähigkeiten für bedeutungsvolle, dauerhafte Beziehungen aufzubauen. Wir bringen dir bei, wie du kompatible Partner identifizierst und echte Verbindungen aufbaust."
+      },
+      {
+        "question": "Sind die Coaches tatsächlich Frauen?",
+        "answer": "Ja, unser Coaching-Team besteht ausschließlich aus Frauen, die das Dating aus der weiblichen Perspektive verstehen. Das gibt dir Einblicke, die du einfach nicht von männlichen Coaches bekommen kannst, die raten, was Frauen wollen."
+      },
+      {
+        "question": "Was ist, wenn ich kürzlich geschieden bin oder seit Jahren nicht mehr gedatet habe?",
+        "answer": "Wir arbeiten mit vielen Männern, die nach langen Beziehungen oder Ehen wieder in die Dating-Welt einsteigen. Wir helfen dir dabei zu verstehen, wie sich das Dating verändert hat, und bauen dein Selbstvertrauen in einem angenehmen Tempo wieder auf."
+      },
+      {
+        "question": "Ist das nur für jüngere Männer?",
+        "answer": "Überhaupt nicht. Wir arbeiten mit Männern im Alter von 22-55+. Dating-Herausforderungen existieren in jedem Alter, und unser Ansatz passt sich an deine Lebensphase an, egal ob du gerade deine Karriere beginnst oder beruflich bereits etabliert bist."
+      }
+    ],
+    "cta": {
+      "text": "Hast du noch Fragen? Lass uns sprechen.",
+      "button": "Klarheitsgespräch buchen"
+    }
+  },
+  "contact": {
+    "heading": "Bereit, dein Dating-Leben zu transformieren?",
+    "subtitle": "Du musst das nicht alleine herausfinden. Unsere erfahrenen weiblichen Coaches sind hier, um dich zu authentischem Selbstvertrauen und bedeutungsvollen Verbindungen zu führen.",
+    "benefits": [
+      "Praktische, umsetzbare Beratung in jeder Sitzung",
+      "Keine Verurteilung, nur ehrliches Feedback und Unterstützung",
+      "Bewährte Strategien von Frauen, die Frauen verstehen"
+    ],
+    "clarity_call": {
+      "heading": "Buche dein Klarheitsgespräch",
+      "details": {
+        "duration": {
+          "label": "Dauer",
+          "value": "1 Sitzung"
+        },
+        "investment": {
+          "label": "Investition",
+          "value": "165€"
+        },
+        "format": {
+          "label": "Format",
+          "value": "Videoanruf"
+        }
+      },
+      "button": "Klarheitsgespräch buchen",
+      "description": "Erhalte sofortige, praktische Schritte zur Verbesserung deiner Dating-Ergebnisse."
+    }
+  },
+  "footer": {
+    "navigation": {
+      "services": "Unsere Dienstleistungen",
+      "about": "Über uns",
+      "testimonials": "Erfolgsgeschichten",
+      "pricing": "Preise",
+      "contact": "Loslegen"
+    },
+    "social": {
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn"
+    },
+    "newsletter": {
+      "heading": "Wöchentliche Dating-Tipps",
+      "subtitle": "Erhalte selbstvertrauensstärkende Einblicke direkt in deinen Posteingang",
+      "email_placeholder": "Gib deine E-Mail ein",
+      "subscribe_button": "Abonnieren"
+    },
+    "copyright": {
+      "text": "© 2024 GirlToBro. Alle Rechte vorbehalten.",
+      "privacy": "Datenschutzrichtlinie",
+      "terms": "Nutzungsbedingungen"
+    }
+  },
+  "metadata": {
+    "title": "GirlToBro - Dating-Coaching für Männer von Frauen",
+    "description": "Transformiere dein Dating-Leben mit authentischem Coaching von weiblichen Experten. Baue Selbstvertrauen auf, verbessere die Kommunikation und schaffe bedeutungsvolle Verbindungen."
+  }
+}
