@@ -55,7 +55,7 @@ export function About() {
               </div>
             </div>
 
-            <div className="bg-gradient-to-r from-gray-900 to-gray-700 rounded-2xl p-8 lg:p-10 text-white">
+            <div className="bg-black rounded-2xl p-8 lg:p-10 text-white">
               <h3 className="text-2xl lg:text-3xl font-heading font-bold mb-6">
                 {t('about.male_loneliness.heading')}
               </h3>

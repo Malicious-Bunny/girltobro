@@ -1,7 +1,6 @@
 "use client";
 
 import { useTranslation } from "@/hooks/useTranslation";
-import { SilkBackground } from "@/components/ui/silk-background";
 
 export function Services() {
   const { t } = useTranslation();
@@ -71,14 +70,11 @@ export function Services() {
                 key={index}
                 className={`relative py-24 lg:py-32 overflow-hidden ${
                   isDark
-                    ? 'bg-gray-900'
+                    ? 'bg-black'
                     : 'bg-transparent'
                 }`}
               >
-                {/* Silk Background for dark sections */}
-                {isDark && (
-                  <SilkBackground className="z-0" />
-                )}
+               
 
                 {/* Dark overlay for better text readability */}
                 {isDark && (
