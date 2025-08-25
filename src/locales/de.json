@@ -1,0 +1,327 @@
+{
+  "navigation": {
+    "services": "Dienstleistungen",
+    "about": "Über uns",
+    "testimonials": "Erfolgsgeschichten",
+    "pricing": "Preise",
+    "language": "Sprache"
+  },
+  "hero": {
+    "heading": "Date mit Selbstvertrauen. Verbinde dich mit Herz.",
+    "tagline": "Wir sind Frauen, die Männern helfen, als ihr echtes, selbstsicheres Ich aufzutreten. Keine Spielchen – nur herzliche Begleitung, praktische Tools und echte Ergebnisse.",
+    "buttonText": "Lass uns starten"
+  },
+  "services": {
+    "heading": "Wobei wir dich unterstützen",
+    "subtitle": "Einfühlsames, praktisches Coaching, damit du dich entspannter, authentischer und für die richtigen Frauen anziehender fühlst.",
+    "cta": {
+      "text": "Bereit, dich beim Dating wohler zu fühlen?",
+      "button": "Erste Sitzung buchen"
+    },
+    "items": {
+      "dating_profile": {
+        "title": "Dating‑Profil, aber besser",
+        "description": "Ein Profil, das nach dir klingt – und Frauen anzieht, die wirklich zu dir passen. Wir zeigen dir, wie du dich ehrlich und natürlich präsentierst.",
+        "features": [
+          "Fotos auswählen – ohne zu verkopfen",
+          "Eine Bio schreiben, die nach dir klingt",
+          "Einfache Gesprächseinstiege",
+          "Tipps für jede App, die du nutzt"
+        ]
+      },
+      "confidence_communication": {
+        "title": "Selbstvertrauen und Kommunikation",
+        "description": "Ruhiger, klarer, mehr du selbst in Gesprächen. Keine Sprüche – echte Verbindung.",
+        "features": [
+          "Körpersprache leicht gemacht",
+          "Was sagen – und wie zuhören",
+          "Emotionale Achtsamkeit",
+          "Haltbare Mindset‑Shifts"
+        ]
+      },
+      "dating_strategy": {
+        "title": "Mindset und Dating‑Strategie",
+        "description": "Ein gesünderer Umgang mit Dating – weniger Druck, mehr Klarheit und Verbindungen, die zu dir passen.",
+        "features": [
+          "Klarheit darüber, was du willst",
+          "Frühzeitig Red Flags erkennen",
+          "Freundliche, klare Grenzen",
+          "Langfristig denken"
+        ]
+      },
+      "style_presentation": {
+        "title": "Stil und erster Eindruck",
+        "description": "Gut aussehen, ohne dich zu verstellen. Kleine, machbare Veränderungen, die sich gut anfühlen.",
+        "features": [
+          "Kleidung, die zu dir passt",
+          "Pflege einfach erklärt",
+          "Stärkerer erster Eindruck",
+          "Ein Stil, der bleibt"
+        ]
+      },
+      "text_messaging": {
+        "title": "Texten, das wirklich funktioniert",
+        "description": "Gespräche freundlich und natürlich am Laufen halten – ohne jedes Wort zu zerdenken.",
+        "features": [
+          "Wann schreiben (und wann nicht)",
+          "Den Flow halten",
+          "Echtes Interesse aufbauen",
+          "Locker zum Date überleiten"
+        ]
+      },
+      "real_world_practice": {
+        "title": "Praxis im echten Leben",
+        "description": "Dinge mit Unterstützung ausprobieren. Wir helfen dir, dich entspannter und selbstsicherer zu fühlen – in realen Situationen.",
+        "features": [
+          "Coaching für soziale Situationen",
+          "Sanfte Annäherungstechniken",
+          "Selbstvertrauens‑Übungen",
+          "Anwenden, was du lernst"
+        ]
+      }
+    }
+  },
+  "about": {
+    "heading": "Warum von Frauen lernen?",
+    "paragraphs": [
+      "Weil wir wissen, was sich auf der anderen Seite gut anfühlt. Wir haben jede Art von Nachricht und Date gesehen – und helfen dir, dich auf das zu konzentrieren, was wirklich Verbindung schafft.",
+      "Wir zeigen dir den Unterschied zwischen echter Gelassenheit und zu viel Wollen. Uns ist wichtig, dass du du selbst bist – nicht, dass du etwas vorspielst.",
+      "Gute Beziehungen entstehen aus Respekt, Neugier und emotionaler Wachheit. Genau das vermitteln wir – ohne Tricks und Spielchen."
+    ],
+    "stats": {
+      "men_coached": {
+        "number": "500+",
+        "label": "Betreute Männer"
+      },
+      "find_relationships": {
+        "number": "85%",
+        "label": "Finden Beziehungen"
+      }
+    },
+    "approach": {
+      "heading": "Unser Ansatz",
+      "items": [
+        {
+          "title": "Authentische Entwicklung",
+          "description": "Wir helfen dir dabei, die beste Version deiner selbst zu werden, nicht jemand anderes."
+        },
+        {
+          "title": "Weibliche Perspektive",
+          "description": "Einblicke von Frauen, die verstehen, was Frauen wirklich wollen."
+        },
+        {
+          "title": "Langfristiger Erfolg",
+          "description": "Fokus auf den Aufbau bedeutungsvoller Beziehungen, nicht nur auf das Bekommen von Dates."
+        },
+        {
+          "title": "Praktische Fähigkeiten",
+          "description": "Techniken aus der realen Welt, die du sofort anwenden kannst."
+        }
+      ]
+    },
+    "male_loneliness": {
+      "heading": "Die männliche Einsamkeitskrise",
+      "description": "Wir verstehen, dass Dating-Probleme oft tiefere Probleme mit Verbindung und Gemeinschaft widerspiegeln. Unser Coaching behandelt nicht nur Dating-Fähigkeiten, sondern hilft dir dabei, Selbstvertrauen und soziale Fähigkeiten aufzubauen, die jeden Bereich deines Lebens verbessern."
+    }
+  },
+  "testimonials": {
+    "badge": "Erfolgsgeschichten",
+    "heading": "Echte Männer. Echte Schritte nach vorn.",
+    "subtitle": "Ein paar Stimmen von Männern, die sich eine echte Chance auf Verbindung gegeben haben.",
+    "items": [
+      {
+        "text": "Erste Dates liefen oft ins Nichts. Mit ehrlichem Feedback und kleinen Änderungen bin ich jetzt in einer Beziehung, die sich leicht und gut anfühlt.",
+        "name": "anonymous",
+        "role": "girltobro user"
+      },
+      {
+        "text": "Nach der Scheidung war ich orientierungslos. Das Coaching hat mir ruhiges, stabiles Selbstvertrauen gegeben – und ein besseres Verständnis dafür, was Frauen schätzen.",
+        "name": "anonymous",
+        "role": "girltobro user"
+      },
+      {
+        "text": "Früher habe ich blockiert. Ich habe gelernt: Selbstvertrauen kann leise sein – sich in der eigenen Haut wohlfühlen.",
+        "name": "anonymous",
+        "role": "girltobro user"
+      },
+      {
+        "text": "App‑Chats sind versandet. Ein einfacher, freundlicher Text‑Flow hat viel verändert.",
+        "name": "anonymous",
+        "role": "girltobro user"
+      },
+      {
+        "text": "Ich dachte, ich müsste mich verstellen. Eigentlich funktioniert ich‑selbst sein – mit etwas mehr Klarheit – viel besser.",
+        "name": "anonymous",
+        "role": "girltobro user"
+      },
+      {
+        "text": "Das Beste, was ich seit langem für mich getan habe. Ehrliches Feedback (von Frauen!) hat mir geholfen, echter zu verbinden.",
+        "name": "anonymous",
+        "role": "girltobro user"
+      },
+      {
+        "text": "Gespräche anfangen macht mir keine Angst mehr. Ich bin sozial entspannter – und das merkt man.",
+        "name": "anonymous",
+        "role": "girltobro user"
+      },
+      {
+        "text": "Mein Profil zeigt endlich, wer ich bin. Ich schreibe mit Frauen, die wirklich zu mir passen.",
+        "name": "anonymous",
+        "role": "girltobro user"
+      },
+      {
+        "text": "Keine Spielchen. Nur klare, freundliche Tipps, die wirklich helfen, echte Verbindungen aufzubauen.",
+        "name": "anonymous",
+        "role": "girltobro user"
+      }
+    ]
+  },
+  "simple_cta": {
+    "title": "Hör auf, an dir zu zweifeln",
+    "subtitle": "Du darfst dich beim Dating ruhig, klar und sicher fühlen. Gehen wir gemeinsam den nächsten kleinen Schritt.",
+    "buttonText": "Heute starten"
+  },
+  "pricing": {
+    "heading": "Eine Investition in dich",
+    "subtitle": "Veränderung entsteht durch freundliche Begleitung und Übung. Wähle, was sich jetzt stimmig anfühlt.",
+    "plans": {
+      "clarity_call": {
+        "name": "Das Klarheitsgespräch",
+        "subtitle": "Schnelle, praktische Orientierung",
+        "price": "65€",
+        "duration": "1 Sitzung",
+        "description": "Bring Profil, Chats oder eine knifflige Situation mit. Du gehst mit klaren nächsten Schritten.",
+        "features": [
+          "Persönliches Feedback zum direkten Umsetzen",
+          "Einfache Schritte für bessere Ergebnisse"
+        ],
+        "cta": "Buchen"
+      },
+      "dating_reset": {
+        "name": "Dating & Selbstvertrauen Reset",
+        "subtitle": "Alte Muster mit Unterstützung lösen",
+        "price": "250€",
+        "duration": "4 Sitzungen",
+        "description": "Mehr Sicherheit, klarere Kommunikation und Dating, das zu dir passt.",
+        "features": [
+          "Stetige Entwicklung mit Wochenfokus",
+          "Bessere Gespräche, bessere Matches",
+          "Weniger Druck, mehr Klarheit"
+        ],
+        "cta": "Buchen"
+      },
+      "full_transformation": {
+        "name": "Die vollständige Transformation",
+        "subtitle": "Mindset, Präsenz und Verbindung stärken",
+        "price": "580€",
+        "duration": "8 Sitzungen",
+        "description": "Einfühlsames Komplett‑Reset – von Profil und Stil bis Texting und Praxis im Alltag.",
+        "features": [
+          "In jeder Situation geerdet bleiben",
+          "Frauen anziehen, die wirklich passen",
+          "Profil, Stil und Gespräch auffrischen",
+          "Einfache Tools für Ruhe unter Druck",
+          "Selbstvertrauen, das bleibt"
+        ],
+        "cta": "Buchen"
+      }
+    },
+    "popular_badge": "Am beliebtesten",
+    "bottom_note": {
+      "sessions_note": "Alle Sitzungen finden per Video statt.",
+      "guarantee": "Bitte beachten: Alle Gebühren sind nicht erstattungsfähig."
+    }
+  },
+  "faq": {
+    "heading": "Fragen, die oft kommen",
+    "subtitle": "Ein freundlicher Überblick, wie wir arbeiten.",
+    "items": [
+      {
+        "question": "Warum sollte ich von Frauen lernen statt von anderen Männern?",
+        "answer": "Wir wissen, was sich auf der anderen Seite gut anfühlt. Wir haben jeden Typ von Annäherung erlebt und können dir helfen, dich auf das zu konzentrieren, was wirklich echte Verbindung schafft."
+      },
+      {
+        "question": "Wird das wirklich für jemanden wie mich funktionieren?",
+        "answer": "Ja. Unser Ansatz geht nicht darum, zu ändern, wer du bist – sondern dir zu helfen, als dein bestes, selbstsicherstes Ich aufzutreten. Wir haben Männern aller Hintergründe und Erfahrungslevel geholfen."
+      },
+      {
+        "question": "Wie schnell werde ich Ergebnisse sehen?",
+        "answer": "Die meisten Männer bemerken Verbesserungen in ihrem Selbstvertrauen und Gesprächen innerhalb von 2-3 Sitzungen. Bedeutungsvolle Beziehungen brauchen Zeit, aber die Fähigkeiten, die wir lehren, helfen sofort."
+      },
+      {
+        "question": "Geht es nur darum, mehr Dates zu bekommen?",
+        "answer": "Nein. Wir konzentrieren uns darauf, das Selbstvertrauen und die Fähigkeiten aufzubauen, die jeden Bereich deines Lebens verbessern. Besseres Dating ist nur ein Ergebnis davon, sozial selbstsicherer zu werden."
+      },
+      {
+        "question": "Was ist, wenn ich wirklich schüchtern bin oder soziale Ängste habe?",
+        "answer": "Wir spezialisieren uns darauf, Männern zu helfen, die sich nervös oder überfordert fühlen. Unser Ansatz ist sanft, unterstützend und darauf ausgelegt, Selbstvertrauen in deinem eigenen Tempo aufzubauen."
+      },
+      {
+        "question": "Garantiert ihr, dass ich eine Beziehung finde?",
+        "answer": "Wir können nicht garantieren, dass du die Liebe findest, aber wir können garantieren, dass du dich selbstsicherer und authentischer fühlen wirst. Der Rest folgt natürlich, wenn du als dein wahres Ich auftrittst."
+      }
+    ],
+    "cta": {
+      "text": "Noch unsicher? Wir helfen gern.",
+      "button": "Klarheitsgespräch buchen"
+    }
+  },
+  "contact": {
+    "heading": "Bereit, dich sicherer zu fühlen?",
+    "subtitle": "Du musst das nicht alleine schaffen. Wir holen dich dort ab, wo du bist – Schritt für Schritt.",
+    "benefits": [
+      "Klarer, praktischer Input in jeder Sitzung",
+      "Freundliches Feedback ohne Urteil",
+      "Echte Einblicke von Frauen, die es verstehen"
+    ],
+    "clarity_call": {
+      "heading": "Buche dein Klarheitsgespräch",
+      "details": {
+        "duration": {
+          "label": "Dauer",
+          "value": "1 Sitzung"
+        },
+        "investment": {
+          "label": "Investition",
+          "value": "65€"
+        },
+        "format": {
+          "label": "Format",
+          "value": "Video"
+        }
+      },
+      "button": "Klarheitsgespräch buchen",
+      "description": "Du bekommst einfache, zu dir passende nächste Schritte."
+    }
+  },
+  "footer": {
+    "navigation": {
+      "services": "Unsere Leistungen",
+      "about": "Über uns",
+      "testimonials": "Erfolgsgeschichten",
+      "pricing": "Preise",
+      "contact": "Loslegen"
+    },
+    "social": {
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn"
+    },
+    "newsletter": {
+      "heading": "Wöchentliche Dating‑Tipps",
+      "subtitle": "Kurze, freundliche Impulse für mehr Sicherheit.",
+      "email_placeholder": "E‑Mail eingeben",
+      "subscribe_button": "Abonnieren"
+    },
+    "copyright": {
+      "text": "© 2024 GirlToBro. Alle Rechte vorbehalten.",
+      "privacy": "Datenschutz",
+      "terms": "Nutzungsbedingungen"
+    }
+  },
+  "metadata": {
+    "title": "GirlToBro – Freundliches Dating‑Coaching für Männer, von Frauen",
+    "description": "Mehr Sicherheit und Authentizität mit einfühlsamem, praktischem Coaching. Echte Verbindungen – ohne Spielchen."
+  }
+}
