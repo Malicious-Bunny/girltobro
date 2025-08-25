@@ -1,9 +1,23 @@
 "use client";
 
 import { useTranslation } from "@/hooks/useTranslation";
+import { getCalApi } from "@calcom/embed-react";
+import { useEffect } from "react";
 
 export function Contact() {
   const { t } = useTranslation();
+
+  useEffect(() => {
+    (async function () {
+      const cal = await getCalApi();
+      cal("ui", {
+        theme: "dark",
+        styles: {
+          branding: { brandColor: "#000000" },
+        },
+      });
+    })();
+  }, []);
 
   return (
     <section id="contact" className="py-24 lg:py-32 bg-black text-white">
@@ -50,7 +64,10 @@ export function Contact() {
               </div>
             </div>
 
-            <button className="w-full bg-black text-white py-4 rounded-full font-semibold text-lg hover:bg-gray-800 transition-colors mb-6 focus:outline-none focus:ring-2 focus:ring-ring">
+            <button
+             data-cal-link="girltobro/clarity-call"
+            data-cal-config='{"theme":"light"}'
+            className="w-full bg-black text-white py-4 rounded-full font-semibold text-lg hover:bg-gray-800 transition-colors mb-6 focus:outline-none focus:ring-2 focus:ring-ring">
               {t('contact.clarity_call.button')}
             </button>
 

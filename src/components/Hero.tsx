@@ -48,7 +48,7 @@ export function Hero() {
       tagline={t('hero.tagline')}
       buttonText={t('hero.buttonText')}
       imageUrl="/hero.jpg"
-      videoUrl=""
+      videoUrl="/hero-video.mp4"
       navItems={navItems}
       onButtonClick={handleGetStarted}
     />
