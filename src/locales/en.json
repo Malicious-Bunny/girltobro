@@ -1,0 +1,332 @@
+{
+  "navigation": {
+    "services": "Services",
+    "about": "About",
+    "testimonials": "Success Stories",
+    "pricing": "Pricing",
+    "language": "Language"
+  },
+  "hero": {
+    "heading": "Date with confidence. Connect with heart.",
+    "tagline": "We're women helping men show up as their real, confident selves. No gimmicks—just caring guidance, practical tools, and genuine results.",
+    "buttonText": "Let's get started"
+  },
+  "services": {
+    "heading": "How we can help",
+    "subtitle": "Kind, practical coaching to help you feel more at ease, more authentic, and more attractive to the right women.",
+    "cta": {
+      "text": "Ready to feel better about dating?",
+      "button": "Book your first session"
+    },
+    "items": {
+      "dating_profile": {
+        "title": "Dating profile glow-up",
+        "description": "Create a profile that feels like you—and attracts women who actually fit. We'll help you show your best self in a natural, honest way.",
+        "features": [
+          "Pick the right photos (without overthinking)",
+          "Write a bio that sounds like you",
+          "Easy conversation starters",
+          "Tips for each app you use"
+        ]
+      },
+      "confidence_communication": {
+        "title": "Confidence and communication",
+        "description": "Feel calmer, clearer, and more yourself in conversations. No lines—just real connection.",
+        "features": [
+          "Body language made simple",
+          "What to say (and how to listen)",
+          "Emotional awareness",
+          "Mindset shifts that last"
+        ]
+      },
+      "dating_strategy": {
+        "title": "Mindset and dating strategy",
+        "description": "A healthier approach to dating—less pressure, more clarity, and connections that make sense for you.",
+        "features": [
+          "Get clear on what you want",
+          "Spot red flags early",
+          "Set kind, confident boundaries",
+          "Think long-term"
+        ]
+      },
+      "style_presentation": {
+        "title": "Style and first impressions",
+        "description": "Look put-together without pretending to be someone you're not. Simple, doable tweaks that feel good.",
+        "features": [
+          "Wardrobe suggestions that fit your vibe",
+          "Grooming made easy",
+          "Stronger first impressions",
+          "A personal style you can keep"
+        ]
+      },
+      "text_messaging": {
+        "title": "Texting that actually works",
+        "description": "Keep conversations moving in a friendly, natural way—without overthinking every word.",
+        "features": [
+          "When to text (and when not to)",
+          "How to keep the flow",
+          "Build genuine interest",
+          "Move to a date smoothly"
+        ]
+      },
+      "real_world_practice": {
+        "title": "Real-world practice",
+        "description": "Try things out with support. We'll help you feel more relaxed and confident in actual situations.",
+        "features": [
+          "Coaching for social settings",
+          "Gentle approach techniques",
+          "Confidence reps",
+          "Apply what you learn"
+        ]
+      }
+    }
+  },
+  "about": {
+    "heading": "Why learn from women?",
+    "paragraphs": [
+      "Because we know what feels good on the other side. We've seen every kind of message and date—and we can help you focus on what actually builds connection.",
+      "We'll help you tell the difference between real confidence and trying too hard. We care about you feeling like yourself, not performing.",
+      "Healthy relationships come from respect, curiosity, and emotional awareness. That's what we teach—no tricks, no games."
+    ],
+    "stats": {
+      "men_coached": {
+        "number": "500+",
+        "label": "Men Coached"
+      },
+      "find_relationships": {
+        "number": "85%",
+        "label": "Find Relationships"
+      }
+    },
+    "approach": {
+      "heading": "Our Approach",
+      "items": [
+        {
+          "title": "Authentic Development",
+          "description": "We help you become the best version of yourself, not someone else."
+        },
+        {
+          "title": "Female Perspective",
+          "description": "Insights from women who understand what women actually want."
+        },
+        {
+          "title": "Long-term Success",
+          "description": "Focus on building meaningful relationships, not just getting dates."
+        },
+        {
+          "title": "Practical Skills",
+          "description": "Real-world techniques you can apply immediately."
+        }
+      ]
+    },
+    "male_loneliness": {
+      "heading": "The Male Loneliness Crisis",
+      "description": "We understand that dating struggles often reflect deeper issues with connection and community. Our coaching addresses not just dating skills, but helps you build confidence and social skills that improve every area of your life."
+    }
+  },
+  "testimonials": {
+    "badge": "Success Stories",
+    "heading": "Real men. Real progress.",
+    "subtitle": "A few kind words from men who decided to give themselves a real shot at connection.",
+    "items": [
+      {
+        "text": "I kept running into first dates that went nowhere. With some honest feedback and small shifts, I'm now in a relationship that feels good and easy.",
+        "name": "anonymous",
+        "role": "girlsforbros user"
+      },
+      {
+        "text": "After my divorce I felt lost. The coaching helped me rebuild steady confidence and understand what women actually appreciate.",
+        "name": "anonymous",
+        "role": "girlsforbros user"
+      },
+      {
+        "text": "I used to freeze up. I learned that confidence can be quiet—it's feeling comfortable in your own skin.",
+        "name": "anonymous",
+        "role": "girlsforbros user"
+      },
+      {
+        "text": "My app chats fizzled out. Learning a simple, friendly texting flow made a huge difference.",
+        "name": "anonymous",
+        "role": "girlsforbros user"
+      },
+      {
+        "text": "I thought I had to act a certain way. Turns out being myself—with a bit more clarity—works way better.",
+        "name": "anonymous",
+        "role": "girlsforbros user"
+      },
+      {
+        "text": "Best thing I've done for myself in years. The honest feedback (from women!) helped me connect in a more genuine way.",
+        "name": "anonymous",
+        "role": "girlsforbros user"
+      },
+      {
+        "text": "Starting conversations doesn't scare me anymore. I'm more relaxed socially and it shows.",
+        "name": "anonymous",
+        "role": "girlsforbros user"
+      },
+      {
+        "text": "My profile finally reflects who I am. I'm talking to women who actually match what I'm looking for.",
+        "name": "anonymous",
+        "role": "girlsforbros user"
+      },
+      {
+        "text": "No gimmicks. Just kind, clear advice that actually helped me build real connections.",
+        "name": "anonymous",
+        "role": "girlsforbros user"
+      }
+    ]
+  },
+  "simple_cta": {
+    "title": "Stop second‑guessing yourself",
+    "subtitle": "You deserve to feel calm, clear, and confident when you date. Let's take the next small step together.",
+    "buttonText": "Get started today"
+  },
+  "pricing": {
+    "heading": "An investment in you",
+    "subtitle": "Real change comes from kind accountability and steady practice. Choose what feels right for now.",
+    "sale_banner": "🎉 Limited Time: 50% Off All Packages!",
+    "plans": {
+      "clarity_call": {
+        "name": "The Clarity Call",
+        "subtitle": "Quick, practical guidance",
+        "original_price": "$50",
+        "price": "$25",
+        "duration": "1 Session",
+        "description": "Bring a profile, texts, or a tricky situation. Leave with clear next steps.",
+        "features": [
+          "Personalized feedback you can use right away",
+          "Simple actions to improve results"
+        ],
+        "cta": "Book"
+      },
+      "dating_reset": {
+        "name": "The Dating & Confidence Reset",
+        "subtitle": "Break old patterns with support",
+        "original_price": "$140",
+        "price": "$70",
+        "duration": "4 Sessions",
+        "description": "Build confidence, communicate clearly, and date in a way that fits you.",
+        "features": [
+          "Steady growth with weekly focus",
+          "Better conversations, better matches",
+          "Less pressure, more clarity"
+        ],
+        "cta": "Book"
+      },
+      "full_transformation": {
+        "name": "The Full Transformation",
+        "subtitle": "Grow your mindset, presence, and connection",
+        "original_price": "$300",
+        "price": "$150",
+        "duration": "8 Sessions",
+        "description": "A caring, complete reset—from profile and style to texting and real-world practice.",
+        "features": [
+          "Feel grounded in any situation",
+          "Attract women who truly fit",
+          "Profile, style, and conversation refresh",
+          "Simple tools to stay calm under pressure",
+          "Confidence that lasts"
+        ],
+        "cta": "Book"
+      }
+    },
+    "popular_badge": "Most popular",
+    "bottom_note": {
+      "sessions_note": "All sessions happen via video call.",
+      "guarantee": "Please note: all fees are non‑refundable.",
+      "sale_note": "Sale prices valid for limited time only."
+    }
+  },
+  "faq": {
+    "heading": "Questions we hear a lot",
+    "subtitle": "Here's a friendly overview of how we work.",
+    "items": [
+      {
+        "question": "Why should I learn from women instead of other men?",
+        "answer": "We know what feels good on the other side. We've experienced every type of approach and can help you focus on what actually builds genuine connection."
+      },
+      {
+        "question": "Will this actually work for someone like me?",
+        "answer": "Yes. Our approach isn't about changing who you are—it's about helping you show up as your best, most confident self. We've helped men of all backgrounds and experience levels."
+      },
+      {
+        "question": "How quickly will I see results?",
+        "answer": "Most men notice improvements in their confidence and conversations within 2-3 sessions. Meaningful relationships take time, but the skills we teach help immediately."
+      },
+      {
+        "question": "Is this just about getting more dates?",
+        "answer": "No. We focus on building the confidence and skills that improve every area of your life. Better dating is just one result of becoming more socially confident."
+      },
+      {
+        "question": "What if I'm really shy or have social anxiety?",
+        "answer": "We specialize in helping men who feel nervous or overwhelmed. Our approach is gentle, supportive, and designed to build confidence at your own pace."
+      },
+      {
+        "question": "Do you guarantee I'll find a relationship?",
+        "answer": "We can't guarantee you'll find love, but we can guarantee you'll feel more confident and authentic. The rest follows naturally when you're showing up as your real self."
+      }
+    ],
+    "cta": {
+      "text": "Still unsure? We're happy to help.",
+      "button": "Book a clarity call"
+    }
+  },
+  "contact": {
+    "heading": "Ready to feel more confident?",
+    "subtitle": "You don't have to figure this out alone. We'll meet you where you are and take it one step at a time.",
+    "benefits": [
+      "Clear, practical guidance in every session",
+      "Kind feedback without judgment",
+      "Real insight from women who get it"
+    ],
+    "clarity_call": {
+      "heading": "Book your clarity call",
+      "details": {
+        "duration": {
+          "label": "Duration",
+          "value": "1 Session"
+        },
+        "investment": {
+          "label": "Investment",
+          "value": "$25 (50% off)"
+        },
+        "format": {
+          "label": "Format",
+          "value": "Video call"
+        }
+      },
+      "button": "Book clarity call",
+      "description": "We'll give you simple next steps tailored to you."
+    }
+  },
+  "footer": {
+    "navigation": {
+      "services": "Our services",
+      "about": "About us",
+      "testimonials": "Success stories",
+      "pricing": "Pricing",
+      "contact": "Get started"
+    },
+    "social": {
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn"
+    },
+    "newsletter": {
+      "heading": "Weekly dating tips",
+      "subtitle": "Short, kind insights to help you feel more confident.",
+      "email_placeholder": "Enter your email",
+      "subscribe_button": "Subscribe"
+    },
+    "copyright": {
+      "text": "© 2024 GirlsForBros. All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  },
+  "metadata": {
+    "title": "GirlsForBros – Friendly dating coaching for men, by women",
+    "description": "Feel more confident and authentic with gentle, practical coaching. Build real connections—without the games."
+  }
+}
